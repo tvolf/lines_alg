@@ -1,4 +1,4 @@
-An Empirical algorithm of minimization lines for segments list
+A heuristic algorithm of minimization lines for segments list
 
 For example, we have a segments list 
 [(0,1), (1,5), (2,4), (4,5)]
